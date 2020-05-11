@@ -15,7 +15,6 @@ public class HoaDonHeader {
     private String maHD;
     private Date ngayBan;
 
-    
     private String tenKH;
 
     HoaDonHeader(String maHD, Date ngayBan, String tenKH) {
